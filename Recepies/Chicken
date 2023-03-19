@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang:"en">
+<meta charset="UTF-8">
+<body>
+    <h1>Slow Cooker Buffalo Chicken Lettuce Wraps</h1>
+    <img src="https://www.allrecipes.com/thmb/4RMG583ham7UsUA2TL-1dX7nhRA=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/2240640_Slow-Cooker-Buffalo-Chicken-Lettuce-Wraps_Photo-by-Christina-1-9d05c1c81e2b4dcc8c4b74f051793c76.jpg"
+    alt="Buffalo Chicken Lettuce Wraps">
+    <h2>Discription:</h2>
+    <p>Chicken breasts are topped with hot pepper sauce and dry ranch dressing mix and cooked in<br> 
+        the slow cooker. When it's ready, just shred it up and fill fresh Boston lettuce cups. AC <br>
+        says, "Quick, easy, and healthier than traditional Buffalo wings!Perfect for family dinners,<br>
+        BBQ parties, football Sundays, or just about any event!"</p>
+    <h2>Ingredients:</h2>
+    <ul>
+        <li>2 pounds skinless, boneless chicken breasts</li>
+        <li>1 (12 ounce) bottle cayenne pepper sauce (such as Frank's® RedHot®)</li> 
+        <li>1 (1 ounce) package ranch dressing mix</li> 
+        <li> 1 head Boston lettuce leaves</li>
+    </ul>
+    <h2>Steps</h2>
+    <ol>
+        <li>Put chicken into the crock of a slow cooker.</li>
+        <li>Stir cayenne pepper sauce and ranch dressing mix together in a bowl until smooth; pour<br>
+            over chicken.</li>
+        <li>Cook on Low for 6 to 7 hours.</li>
+        <li>Transfer chicken to a large bowl and use 2 forks to shred chicken into strands.</li>
+        <li>Strain liquid from slow cooker crock into a bowl to serve on the side.</li>
+        <li>Spoon chicken into lettuce leaves and roll lettuce around chicken.</li>
+    </ol>
+</body>
+</html>
